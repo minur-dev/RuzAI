@@ -1,0 +1,5 @@
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\publish\ruz AI.exe
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\publish\ruz AI.dll
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\publish\ruz AI.deps.json
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\publish\ruz AI.runtimeconfig.json
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\publish\ruz AI.pdb

@@ -1,0 +1,17 @@
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\Release\netcoreapp3.1\ruz AI.exe
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\Release\netcoreapp3.1\ruz AI.deps.json
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\Release\netcoreapp3.1\ruz AI.runtimeconfig.json
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\Release\netcoreapp3.1\ruz AI.runtimeconfig.dev.json
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\Release\netcoreapp3.1\ruz AI.dll
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\Release\netcoreapp3.1\ruz AI.pdb
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\obj\Release\netcoreapp3.1\ruz AI.csprojAssemblyReference.cache
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\obj\Release\netcoreapp3.1\ruz AI.AssemblyInfoInputs.cache
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\obj\Release\netcoreapp3.1\ruz AI.AssemblyInfo.cs
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\obj\Release\netcoreapp3.1\ruz AI.csproj.CoreCompileInputs.cache
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\obj\Release\netcoreapp3.1\ruz AI.dll
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\obj\Release\netcoreapp3.1\ruz AI.pdb
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\obj\Release\netcoreapp3.1\ruz AI.genruntimeconfig.cache
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\Release\netcoreapp3.1\ruz AI.dll.manifest
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\bin\Release\netcoreapp3.1\ruz AI.application
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\obj\Release\netcoreapp3.1\ruz AI.dll.manifest
+C:\Users\Minur Hussain\source\repos\ruz AI\ruz AI\obj\Release\netcoreapp3.1\ruz AI.application
