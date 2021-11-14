@@ -1,0 +1,14 @@
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\bin\Debug\netcoreapp3.1\ConsoleApprp.exe
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\bin\Debug\netcoreapp3.1\ConsoleApprp.deps.json
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\bin\Debug\netcoreapp3.1\ConsoleApprp.runtimeconfig.json
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\bin\Debug\netcoreapp3.1\ConsoleApprp.runtimeconfig.dev.json
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\bin\Debug\netcoreapp3.1\ConsoleApprp.dll
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\bin\Debug\netcoreapp3.1\ConsoleApprp.pdb
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\obj\Debug\netcoreapp3.1\ConsoleApprp.AssemblyInfoInputs.cache
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\obj\Debug\netcoreapp3.1\ConsoleApprp.AssemblyInfo.cs
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\obj\Debug\netcoreapp3.1\ConsoleApprp.csproj.CoreCompileInputs.cache
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\obj\Debug\netcoreapp3.1\ConsoleApprp.dll
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\obj\Debug\netcoreapp3.1\ConsoleApprp.pdb
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\obj\Debug\netcoreapp3.1\ConsoleApprp.genruntimeconfig.cache
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\obj\Debug\netcoreapp3.1\ConsoleApprp.csproj.AssemblyReference.cache
+C:\Users\Minur Hussain\source\repos\ConsoleApprp\ConsoleApprp\obj\Debug\netcoreapp3.1\ConsoleApprp.GeneratedMSBuildEditorConfig.editorconfig
